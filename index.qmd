@@ -1,5 +1,5 @@
 ---
-title: "monafarnisa.github.io"
+title: "monafarnisa"
 ---
 
 This is a Quarto website.
