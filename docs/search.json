@@ -2,9 +2,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "monafarnisa",
+    "title": "Mona Farnisa",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello! I’m Mona. Welcome to my new (and growing) website!"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Mona Farnisa",
+    "section": "Experience",
+    "text": "Experience\nNational Center for Ecological Analysis and Synthesis | Data Analyst | September 2023 - present"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mona Farnisa",
+    "section": "Education",
+    "text": "Education\nUniversity of Nevada, Reno | Reno, NV MS in Natural Resources & Environmental Science | May 2020 - December 2022\nAmsterdam University College | Amsterdam, The Netherlands BS in Environmental Science | August 2014 - June 2017"
   },
   {
     "objectID": "about.html",
