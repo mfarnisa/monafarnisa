@@ -4,6 +4,10 @@ project:
 
 website:
   title: "Mona Farnisa"
+  site-url: https://monafarnisa.github.io/
+  # google-analytics: 
+  #   tracking-id: "G-LW03VL0YTS" #"UA-242992767-1"
+  #   anonymize-ip: true
   navbar: 
     search: true
     left: 
@@ -24,8 +28,7 @@ website:
     background: light # or dark
     left:
       - "Copyright 2023, Mona Farnisa"
-    right:
-      - "This website is built with R, Quarto, and Github"
+    right: This website is built with {{< fa brands r-project title= "R Project" >}} and [Quarto](https://quarto.org/), and Github.
 
 format:
   html:

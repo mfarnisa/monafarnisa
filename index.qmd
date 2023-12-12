@@ -1,6 +1,6 @@
 ---
 title: Mona Farnisa
-subtitle: "<i> she/her/hers</i>"
+subtitle: "<i> she/her/hers </i>"
 image: docs/Headshot_Cropped.jpg
 toc: false
 
@@ -21,10 +21,4 @@ about:
       href: mailto:farnisa@nceas.ucsb.edu
 ---
 
-##Welcome##
-
-to my new (and growing) website! I am an early career data analyst. I currently work at the National Center for Ecological Analysis and Synthesis as a data analyst on a wildfire project. 
-
-
-
-
+Welcome to my new (and growing) website! I am an early career data analyst. I currently work at the National Center for Ecological Analysis and Synthesis as a data analyst on a wildfire project.
