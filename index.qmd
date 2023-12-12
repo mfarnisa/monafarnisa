@@ -15,25 +15,9 @@ about:
       href: mailto:farnisa@nceas.ucsb.edu
 ---
 
-Hello! I'm Mona. Welcome to my new (and growing) website! 
+Welcome to my new (and growing) website! 
+I am an early career data analyst. I currently work at the National Center for Ecological Analysis and Synthesis. 
 
----
-
-## Experience
-
-National Center for Ecological Analysis and Synthesis | Data Analyst | September 2023 - present
-
----
-
-## Education
-
-University of Nevada, Reno | Reno, NV
-MS in Natural Resources & Environmental Science | May 2020 - December 2022
-
-Amsterdam University College | Amsterdam, The Netherlands
-BS in Environmental Science | August 2014 - June 2017
-
----
 
 
 

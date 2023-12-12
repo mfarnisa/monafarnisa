@@ -9,8 +9,10 @@ website:
       - href: index.qmd
         text: home
       #- include new quarto pages here  
-      #- about.qmd
-      - projects.qmd
+      - href: about.qmd
+        text: about me
+      - href: projects.qmd
+        text: projects
 
 format:
   html:

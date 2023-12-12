@@ -1,9 +1,19 @@
 ---
-title: "About"
+title: "about me"
 ---
 
-About this site
+## Experience
 
-```{r}
-1 + 1
-```
+National Center for Ecological Analysis and Synthesis | Data Analyst | September 2023 - present
+
+---
+
+## Education
+
+University of Nevada, Reno | Reno, NV
+MS in Natural Resources & Environmental Science | May 2020 - December 2022
+
+Amsterdam University College | Amsterdam, The Netherlands
+BS in Environmental Science | August 2014 - June 2017
+---
+
