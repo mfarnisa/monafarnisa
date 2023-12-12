@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Mona Farnisa",
     "section": "",
-    "text": "Hello! I’m Mona. Welcome to my new (and growing) website!"
+    "text": "##Welcome##\nto my new (and growing) website! I am an early career data analyst. I currently work at the National Center for Ecological Analysis and Synthesis as a data analyst on a wildfire project."
   },
   {
     "objectID": "index.html#experience",
@@ -23,22 +23,22 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "about me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "National Center for Ecological Analysis and Synthesis | Data Analyst | September 2023 - present"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "about me",
-    "section": "Experience",
-    "text": "Experience\nNational Center for Ecological Analysis and Synthesis | Data Analyst | September 2023 - present"
+    "section": "",
+    "text": "National Center for Ecological Analysis and Synthesis | Data Analyst | September 2023 - present"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "about me",
     "section": "Education",
-    "text": "Education\nUniversity of Nevada, Reno | Reno, NV MS in Natural Resources & Environmental Science | May 2020 - December 2022\nAmsterdam University College | Amsterdam, The Netherlands BS in Environmental Science | August 2014 - June 2017\n\nAbout this site\n\n1 + 1\n\n[1] 2"
+    "text": "Education\nUniversity of Nevada, Reno | Reno, NV MS in Natural Resources & Environmental Science | May 2020 - December 2022\nAmsterdam University College | Amsterdam, The Netherlands BS in Environmental Science | August 2014 - June 2017"
   }
 ]

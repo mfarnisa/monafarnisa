@@ -1,22 +1,29 @@
 ---
-title: "Mona Farnisa"
+title: Mona Farnisa
+subtitle: "<i> she/her/hers</i>"
 image: docs/Headshot_Cropped.jpg
 toc: false
+
 about: 
+  #id: hero-heading # by placing the template content within a hero-heading block,
   template: trestles
   image-shape: rectangle
   image-width: 20em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/monafarnisa/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/monafarnisa
-    - text: Email
+    - icon: envelope # you'll need to the fontawesome extension to include icons: https://github.com/quarto-ext/fontawesome
+      text: Email
       href: mailto:farnisa@nceas.ucsb.edu
 ---
 
-Welcome to my new (and growing) website! 
-I am an early career data analyst. I currently work at the National Center for Ecological Analysis and Synthesis. 
+##Welcome##
+
+to my new (and growing) website! I am an early career data analyst. I currently work at the National Center for Ecological Analysis and Synthesis as a data analyst on a wildfire project. 
 
 
 

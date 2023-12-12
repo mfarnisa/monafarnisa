@@ -4,8 +4,9 @@ project:
 
 website:
   title: "Mona Farnisa"
-  navbar:
-    left:
+  navbar: 
+    search: true
+    left: 
       - href: index.qmd
         text: home
       #- include new quarto pages here  
@@ -13,6 +14,18 @@ website:
         text: about me
       - href: projects.qmd
         text: projects
+    right: 
+      - icon: github
+        href: https://github.com/dvirlar2
+      - icon: linkedin
+        href: https://www.linkedin.com/in/monafarnisa/
+  
+  page-footer:
+    background: light # or dark
+    left:
+      - "Copyright 2023, Mona Farnisa"
+    right:
+      - "This website is built with R, Quarto, and Github"
 
 format:
   html:
