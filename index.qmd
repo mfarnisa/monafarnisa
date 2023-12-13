@@ -21,4 +21,13 @@ about:
       href: mailto:farnisa@nceas.ucsb.edu
 ---
 
-Welcome to my new (and growing) website! I am an early career data analyst. I currently work at the National Center for Ecological Analysis and Synthesis as a data analyst on a wildfire project.
+## WELCOME !!
+
+to my new (and growing) website. I am a passionate early career data enthusiast on a journey of exploration and discovery within the vast realm of data science. My curiosity knows no bounds, and I find sheer joy in unraveling insights and patterns within datasets.
+
+
+I am dedicated to honing my data analysis skills and navigating the ever-evolving landscape of data science. From delving into statistical models to crafting compelling visualizations, I thrive on transforming raw data into meaningful narratives that empower decision-making. I believe in the democratization of information and open datasets that can contribute to the greater scientific community. I'm excited about the endless possibilities that diverse data platforms offer.
+
+Join me on this exhilarating journey as we unravel the stories hidden within the numbers, explore the vast expanse of open source data, and embrace the ever-evolving landscape of data science.
+
+
