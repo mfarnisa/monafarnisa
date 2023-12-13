@@ -6,9 +6,10 @@ website:
   title: "Mona Farnisa"
   site-url: https://monafarnisa.github.io/
 
-  # google-analytics: 
-  #   tracking-id: "G-LW03VL0YTS" #"UA-242992767-1"
-  #   anonymize-ip: true
+  google-analytics:
+    tracking-id: "G-G-W9WW2GESRZ"
+    anonymize-ip: true
+    
   navbar: 
     search: true
     left: 
