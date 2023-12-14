@@ -23,7 +23,4 @@ about:
 
 ## WELCOME !!
 
-to my new (and growing) website. I am a passionate early career data enthusiast on a journey of exploration and discovery within the vast realm of data science. I am dedicated to honing my data analysis skills and navigating the ever-evolving landscape of data science - from delving into statistical models, crafting compelling visualizations, and learning new coding techniques. I'm excited about the endless possibilities that working with data can offer. 
-
-
-
+to my new (and growing) website. I am a passionate early career data enthusiast on a journey of exploration and discovery within the vast realm of data science. I am dedicated to honing my data analysis skills and navigating the ever-evolving landscape of data science - from delving into statistical models, crafting compelling visualizations, and learning new coding techniques. I'm excited about the endless possibilities that working with data can offer.

@@ -9,7 +9,7 @@ website:
   google-analytics:
     tracking-id: "G-G-W9WW2GESRZ"
     anonymize-ip: true
-    
+
   navbar: 
     search: true
     left: 
@@ -29,7 +29,7 @@ website:
   page-footer:
     background: light # or dark
     left: Copyright 2023, Mona Farnisa
-    right: This website is built with {{< fa brands r-project title= "R Project" >}} and [Quarto](https://quarto.org/), and {{< fa github >}}.
+    right: This website is built with {{< fa brands r-project title= "R Project" >}} and [Quarto](https://quarto.org/), and {{< fa brands github >}}
 
 format:
   html:
