@@ -39,7 +39,7 @@
     "href": "about.html#education",
     "title": "about me",
     "section": "Education",
-    "text": "Education\nUniversity of Nevada, Reno | Reno, NV MS in Natural Resources & Environmental Science | May 2020 - December 2022\nAmsterdam University College | Amsterdam, The Netherlands BS in Environmental Science | August 2014 - June 2017"
+    "text": "Education\nUniversity of Nevada, Reno | Reno, NV\nMS in Natural Resources & Environmental Science | May 2020 - December 2022\nAmsterdam University College | Amsterdam, The Netherlands\nBS in Environmental Science | August 2014 - June 2017"
   },
   {
     "objectID": "index.html#welcome",
@@ -47,5 +47,26 @@
     "title": "Mona Farnisa",
     "section": "",
     "text": "to my new (and growing) website. I am a passionate early career data enthusiast on a journey of exploration and discovery within the vast realm of data science. I am dedicated to honing my data analysis skills and navigating the ever-evolving landscape of data science - from delving into statistical models, crafting compelling visualizations, and learning new coding techniques. I’m excited about the endless possibilities that working with data can offer."
+  },
+  {
+    "objectID": "about.html#fa-chalkboard-teacher-titlea-teacher-at-a-chalkboard-the-profession",
+    "href": "about.html#fa-chalkboard-teacher-titlea-teacher-at-a-chalkboard-the-profession",
+    "title": "about me",
+    "section": " the profession",
+    "text": "the profession\nNational Center for Ecological Analysis and Synthesis | Data Analyst | September 2023 - present"
+  },
+  {
+    "objectID": "about.html#my-experience",
+    "href": "about.html#my-experience",
+    "title": "about me",
+    "section": "",
+    "text": "National Center for Ecological Analysis and Synthesis | Data Analyst | September 2023 - present"
+  },
+  {
+    "objectID": "about.html#my-education",
+    "href": "about.html#my-education",
+    "title": "about me",
+    "section": "My Education",
+    "text": "My Education\nUniversity of Nevada, Reno | Reno, NV\nMS in Natural Resources & Environmental Science | May 2020 - December 2022\nAmsterdam University College | Amsterdam, The Netherlands\nBS in Environmental Science | August 2014 - June 2017"
   }
 ]
