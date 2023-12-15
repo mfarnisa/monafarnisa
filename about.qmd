@@ -2,21 +2,29 @@
 title: "about me"
 ---
 
-## My Experience
+# ~ experience
+
+Data Analyst [Western Wilfire Resilience Index](https://wildfireindex.org/)
+
+[National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) | September 2023 - present
 
 
-National Center for Ecological Analysis and Synthesis | Data Analyst | September 2023 - present
 
 ---
 
-## My Education
-
-University of Nevada, Reno | Reno, NV
+# ~ education
 
 MS in Natural Resources & Environmental Science | May 2020 - December 2022
 
-Amsterdam University College | Amsterdam, The Netherlands
+University of Nevada, Reno | Reno, NV
 
 BS in Environmental Science | August 2014 - June 2017
+
+Amsterdam University College | Amsterdam, The Netherlands
+
+Semester Abroad | June - December 2016
+
+University of Queensland | Brisbane, Australia
+
 ---
 

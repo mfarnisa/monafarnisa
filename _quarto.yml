@@ -29,7 +29,7 @@ website:
   page-footer:
     background: light # or dark
     left: Copyright 2023, Mona Farnisa
-    right: This website is built with {{< fa github title="GitHub" >}}, {{< fa brands r-project title="R Project" >}} and [Quarto](https://quarto.org/).
+    right: This website is built with {{< fa brands r-project title="R Project" >}}, [Quarto](https://quarto.org/), and {{< fa brands github >}}
 
 
 format:
