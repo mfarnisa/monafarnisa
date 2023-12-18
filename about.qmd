@@ -1,12 +1,10 @@
 ---
-title: "about me"
+title: ""
 ---
 
 # ~ experience
 
-Data Analyst [Western Wilfire Resilience Index](https://wildfireindex.org/)
-
-[National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) | September 2023 - present
+I am a Data Analyst for the [Western Wilfire Resilience Index](https://wildfireindex.org/) at the [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/). This is a new project and I am excited to be a part of the initial team tasked with launching this 
 
 
 
@@ -14,17 +12,13 @@ Data Analyst [Western Wilfire Resilience Index](https://wildfireindex.org/)
 
 # ~ education
 
-MS in Natural Resources & Environmental Science | May 2020 - December 2022
+MS in Natural Resources & Environmental Science | May 2020 - December 2022 | University of Nevada, Reno | Reno, NV
 
-University of Nevada, Reno | Reno, NV
+BS in Environmental Science | August 2014 - June 2017 | Amsterdam University College | Amsterdam, The Netherlands
 
-BS in Environmental Science | August 2014 - June 2017
-
-Amsterdam University College | Amsterdam, The Netherlands
-
-Semester Abroad | June - December 2016
-
-University of Queensland | Brisbane, Australia
+Semester Abroad | June - December 2016 | University of Queensland | Brisbane, Australia
 
 ---
+
+# ~ personal
 

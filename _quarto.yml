@@ -35,8 +35,8 @@ website:
 format:
   html:
     theme: 
-      light: darkly
       dark: darkly
+      light: morph
     css: styles.css
     toc: true
     page-layout: full
