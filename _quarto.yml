@@ -1,11 +1,7 @@
-project:
-  type: website
-  output-dir: docs
-
 website:
   title: "Mona Farnisa"
   site-url: https://monafarnisa.github.io/
-
+  
   google-analytics:
     tracking-id: "G-G-W9WW2GESRZ"
     anonymize-ip: true
@@ -13,13 +9,16 @@ website:
   navbar: 
     search: true
     left: 
-      - href: index.qmd
-        text: home
-      #- include new quarto pages here  
-      - href: about.qmd
-        text: about me
-      - href: projects.qmd
-        text: projects
+      - text: home
+        href: index.qmd
+      - text: bio
+        href: bio.qmd
+      - text: resume
+        href: Farnisa_CV_2024.pdf
+      - text: publications
+        href: publications.html
+      - text: biking
+        href: biking.html
     right: 
       - icon: github
         href: https://github.com/dvirlar2
@@ -28,7 +27,7 @@ website:
   
   page-footer:
     background: light # or dark
-    left: Copyright 2023, Mona Farnisa
+    left: Copyright 2024, Mona Farnisa
     right: This website is built with {{< fa brands r-project title="R Project" >}}, [Quarto](https://quarto.org/), and {{< fa brands github >}}
 
 
