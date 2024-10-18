@@ -1,3 +1,6 @@
+project:
+  type: website
+
 website:
   title: "Mona Farnisa"
   site-url: https://monafarnisa.github.io/
@@ -16,12 +19,12 @@ website:
       - text: resume
         href: Farnisa_CV_2024.pdf
       - text: publications
-        href: publications.html
+        href: publications.qmd
       - text: biking
-        href: biking.html
+        href: biking.qmd
     right: 
       - icon: github
-        href: https://github.com/dvirlar2
+        href: https://github.com/monafarnisa
       - icon: linkedin
         href: https://www.linkedin.com/in/monafarnisa/
   
@@ -35,7 +38,7 @@ format:
   html:
     theme: 
       dark: darkly
-      light: morph
+      light: literia
     css: styles.css
     toc: true
     page-layout: full
