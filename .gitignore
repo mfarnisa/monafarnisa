@@ -5,5 +5,5 @@
 .DS_Store
 .quarto
 
-/.quarto/
 
+/site_libs/
